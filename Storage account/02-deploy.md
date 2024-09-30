@@ -3,7 +3,7 @@
 ### Create resource group
 
 ```
-az group create --name broaderAI --location 'Central US'
+az group create --name BroaderAI --location eastus
 ```
 
 ### Create the storage account
